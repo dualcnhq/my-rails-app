@@ -21,3 +21,9 @@
 /yarn-error.log
 
 .byebug_history
+
+
+#OS or editor files
+.DS_Store
+*.swp
+*.swo
