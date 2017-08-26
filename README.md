@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+
+### Notes
+
+  Add column in existing table
+    - rails generate migration <some_name> <name:datatype eg. email:string>
+    - rake db:migrate
